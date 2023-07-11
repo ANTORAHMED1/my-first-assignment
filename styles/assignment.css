@@ -39,7 +39,6 @@ margin-top: 90px;
 }
 .Featured-Flowers{
     width: 1920px;
-    height: 4867px; 
     background: #FFF;
 }
 .section-title{
@@ -89,3 +88,44 @@ margin-top: 90px;
 .text{
     text-align: center;
 }
+.color-change{
+   color: #E55473; 
+}
+.discount{
+    border-radius: 8px;
+   background-color: rgba(229, 84, 115, 0.05);
+   width: 1922px;
+
+}
+.discount-image{
+    margin-top: 100px;
+    background-color: lightgray 50% / cover no-repeat;
+    width: 318px;
+    margin-bottom: 100;
+}
+
+.discount-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+   font-size: 18px;;
+   font-weight: 400;
+   width: 594px;
+}
+ 
+.main{
+    display: flex;
+    gap: 100px;
+    margin-right: 200px;
+    margin-left: 300px;
+ }
+ .btn-primary2{
+    border-radius: 8px;
+   background: #E55473;
+   border: 0;
+   color: #FFF;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 43px;
+  margin-bottom: 240px;
+  margin-left: 250px;
+ }
